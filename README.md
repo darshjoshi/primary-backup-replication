@@ -15,11 +15,12 @@ In this exercise, you are provided with a fully implemented distributed key-valu
 
 ## Repository Structure
 
-- `primary.py`  — Primary server implementation
-- `backup.py`   — Backup server implementation
-- `client.py`   — CLI client for issuing GET/SET commands
-- `test.sh`     — (Optional) script to automate basic tests
-- `README.md`   — This file
+- [`primary.py`](https://github.com/darshjoshi/primary-backup-replication/blob/main/primary.py)  — Primary server implementation
+- [`backup.py`](https://github.com/darshjoshi/primary-backup-replication/blob/main/backup.py)   — Backup server implementation
+- [`client.py`](https://github.com/darshjoshi/primary-backup-replication/blob/main/client.py)   — CLI client for issuing GET/SET commands
+- [`common.py`](https://github.com/darshjoshi/primary-backup-replication/blob/main/common.py)   — Common utilities shared between components
+- [`config.py`](https://github.com/darshjoshi/primary-backup-replication/blob/main/config.py)   — Configuration settings for the system
+- [`README.md`](https://github.com/darshjoshi/primary-backup-replication/blob/main/README.md)   — This file
 
 ## Prerequisites
 
