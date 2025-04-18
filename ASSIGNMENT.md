@@ -135,7 +135,7 @@ This is an individual assignment. While you may discuss general concepts with ot
 
 ## Due Date
 
-Please submit your completed assignment by [INSTRUCTOR TO INSERT DATE].
+Please submit your completed assignment by May 2, 2025.
 
 ---
 
